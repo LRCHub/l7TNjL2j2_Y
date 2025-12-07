@@ -1,0 +1,52 @@
+# Tomomi Kahara – I BELIEVE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+輝く白い 恋の始まりは
+とてもはるか 遠く昔のこと
+Anytime I believe your smile
+どんなときでも
+あなたの笑顔捜してた
+Anytime I believe your love
+ずっと前から
+あなたをきっと見ていた
+Give me a Chance!
+Give me a Jump!
+これからの未来へ向かう戦い!
+Give your a Speed!
+Give your a Power!
+生意気な態度も時には USE!
+冬の街凍えてた
+寒い夜を憎んでいた
+愛を語るより 温もりだけ
+ほんの少し欲しい日もある
+どれほどの恋 どれだけの夢
+抱えきれず空に叫んだ!
+星空を突き抜け行き道を
+走るあなただけを信じたい
+Anytime I believe your smile
+ふと想う影
+幼い思い出をたどってる
+Anytime I believe your love
+追いかけてたいた
+あなたをきっと見ていた
+Give me a Luck!
+Give me a Start!
+これまでの野心を試す頃合
+Give me a Pride!
+Give me a Dream!
+あざとさを見せずにうまく振る舞う
+一人部屋の鍵を
+開ける瞬間(とき)は寂しさ襲う
+愛を貫いて 苦しむより
+ほんの少し甘えた夜もあった
+輝く白い 恋の始まりは
+とてもはるか 遠く昔のこと
+Anytime I believe your smile
+どんなときでも
+あなたの笑顔捜してた
+Anytime I believe your love
+ずっと前から
+あなたをきっと見ていた
+```
