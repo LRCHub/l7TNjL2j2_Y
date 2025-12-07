@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "I BELIEVE",
+  "base_artist": "Tomomi Kahara",
+  "createdAt": "2025-12-07T12:04:48.748253Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Believe",
+      "artist": "Diamond Rio",
+      "has_synced": false,
+      "path": "select/01_I_Believe_Diamond_Rio.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Believe",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/02_I_Believe_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Believe In You",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/03_I_Believe_In_You_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Believe In You",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/04_I_Believe_In_You_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Believe I Can Fly",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/05_I_Believe_I_Can_Fly_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Believe In You",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/06_I_Believe_In_You_YACHT.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Believe In Love",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/07_I_Believe_In_Love_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hymn (I Believe)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/08_Hymn_(I_Believe)_Moby.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Believe In You",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/09_I_Believe_In_You_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Believe in You",
+      "artist": "Neil Young",
+      "has_synced": true,
+      "path": "select/10_I_Believe_in_You_Neil_Young.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Believe in You",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/11_I_Believe_in_You_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Believe In You",
+      "artist": "Sinead O'Connor",
+      "has_synced": true,
+      "path": "select/12_I_Believe_In_You_Sinead_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Believe",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/13_I_Believe_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Believe (Deep Within)",
+      "artist": "Máire Brennan",
+      "has_synced": false,
+      "path": "select/14_I_Believe_(Deep_Within)_Máire_Brennan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I believe",
+      "artist": "華原 朋美",
+      "has_synced": false,
+      "path": "select/pl_01_I_believe_華原_朋美.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "I BELIEVE",
+      "artist": "華原 朋美",
+      "has_synced": false,
+      "path": "select/pl_02_I_BELIEVE_華原_朋美.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "I BELIEVE",
+      "artist": "華原 朋美",
+      "has_synced": false,
+      "path": "select/pl_03_I_BELIEVE_華原_朋美.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "I Believe",
+      "artist": "華原 朋美",
+      "has_synced": false,
+      "path": "select/pl_04_I_Believe_華原_朋美.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "I BELIEVE",
+      "artist": "華原 朋美",
+      "has_synced": false,
+      "path": "select/pl_05_I_BELIEVE_華原_朋美.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "I Believe",
+      "artist": "華原 朋美",
+      "has_synced": false,
+      "path": "select/pl_06_I_Believe_華原_朋美.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "I BELIEVE",
+      "artist": "華原 朋美",
+      "has_synced": false,
+      "path": "select/pl_07_I_BELIEVE_華原_朋美.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "I BELIEVE",
+      "artist": "華原 朋美",
+      "has_synced": false,
+      "path": "select/pl_08_I_BELIEVE_華原_朋美.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "I BELIEVE",
+      "artist": "華原 朋美",
+      "has_synced": false,
+      "path": "select/pl_09_I_BELIEVE_華原_朋美.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "I BELIEVE",
+      "artist": "華原 朋美",
+      "has_synced": false,
+      "path": "select/pl_10_I_BELIEVE_華原_朋美.txt"
+    }
+  ]
+}
